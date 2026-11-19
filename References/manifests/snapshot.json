@@ -1,0 +1,1852 @@
+{
+    "captured_at": "2026-11-05T09:09:27.550204+00:00",
+    "discovery": {
+        "error": null,
+        "indexed_markdown_pages": 222
+    },
+    "git": {
+        "branch": "develop",
+        "revision": "71d692fe22def76f88b0a41c62ac2bc530444f0b"
+    },
+    "provider": "bunq",
+    "sources": [
+        {
+            "bytes": 48510,
+            "kind": "github",
+            "path": "References/upstream/bunq-doc/CHANGELOG.md",
+            "revision": "71d692fe22def76f88b0a41c62ac2bc530444f0b",
+            "sha256": "a226dd723106b1c457d14ebd66515d50a5c0fb4bc628cccf6f955079dac0f0f2",
+            "status": "ok",
+            "url": "https://raw.githubusercontent.com/bunq/doc/71d692fe22def76f88b0a41c62ac2bc530444f0b/CHANGELOG.md"
+        },
+        {
+            "bytes": 73168,
+            "kind": "github",
+            "path": "References/upstream/bunq-doc/DESCRIPTION.md",
+            "revision": "71d692fe22def76f88b0a41c62ac2bc530444f0b",
+            "sha256": "1eaeefc634e0181fb5051b72bd9ed248e5f88d28a3d1b425a0ad580796865a6f",
+            "status": "ok",
+            "url": "https://raw.githubusercontent.com/bunq/doc/71d692fe22def76f88b0a41c62ac2bc530444f0b/DESCRIPTION.md"
+        },
+        {
+            "bytes": 10618,
+            "kind": "github",
+            "path": "References/upstream/bunq-doc/README.md",
+            "revision": "71d692fe22def76f88b0a41c62ac2bc530444f0b",
+            "sha256": "436f7c963b90c7be41b3b259a967c75452aaf63ede0786bc8fd4c65acedbeb66",
+            "status": "ok",
+            "url": "https://raw.githubusercontent.com/bunq/doc/71d692fe22def76f88b0a41c62ac2bc530444f0b/README.md"
+        },
+        {
+            "bytes": 8323,
+            "kind": "github",
+            "path": "References/upstream/bunq-doc/base.json",
+            "revision": "71d692fe22def76f88b0a41c62ac2bc530444f0b",
+            "sha256": "503e65bd16c73079c1aab47903f22102f93270cf650f7519eae1f48be84e9a79",
+            "status": "ok",
+            "url": "https://raw.githubusercontent.com/bunq/doc/71d692fe22def76f88b0a41c62ac2bc530444f0b/base.json"
+        },
+        {
+            "bytes": 2931962,
+            "kind": "github",
+            "path": "References/upstream/bunq-doc/generated.json",
+            "revision": "71d692fe22def76f88b0a41c62ac2bc530444f0b",
+            "sha256": "467c9d2b5c5ffbd2b16dd6787b250da95d253fbd064d306acc89ddb6ffea2b6d",
+            "status": "ok",
+            "url": "https://raw.githubusercontent.com/bunq/doc/71d692fe22def76f88b0a41c62ac2bc530444f0b/generated.json"
+        },
+        {
+            "bytes": 1372042,
+            "kind": "github",
+            "path": "References/upstream/bunq-doc/swagger.json",
+            "revision": "71d692fe22def76f88b0a41c62ac2bc530444f0b",
+            "sha256": "369477c7bd269985676e17b5cb29ec47d7c783b5a084d653892563134ba514c1",
+            "status": "ok",
+            "url": "https://raw.githubusercontent.com/bunq/doc/71d692fe22def76f88b0a41c62ac2bc530444f0b/swagger.json"
+        },
+        {
+            "bytes": 21334,
+            "kind": "index",
+            "path": "References/upstream/gitbook/llms.txt",
+            "sha256": "abc38d920ec34ee778d5307eba0592f5c99d2a03d02c837c5e3791682a1f11a4",
+            "status": "ok",
+            "url": "https://doc.bunq.com/llms.txt"
+        },
+        {
+            "bytes": 2130,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/additional-transaction-information-category-user-defined.md",
+            "sha256": "ba9006cc71ed56b28bc47a91235211f5be9cfd729324e40a6d028071f8783189",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/additional-transaction-information-category-user-defined.md"
+        },
+        {
+            "bytes": 2108,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/additional-transaction-information-category.md",
+            "sha256": "f132895a682bdc499c31334c657e8ba42b81a91b12a4eed0ec13fcc3d7890508",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/additional-transaction-information-category.md"
+        },
+        {
+            "bytes": 2463,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/attachment-public.md",
+            "sha256": "3cea30aadb2b4610e443983bfb2444345582bfb566117fa2a0e78d0ccafbe96b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/attachment-public.md"
+        },
+        {
+            "bytes": 3672,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/attachment.md",
+            "sha256": "fbae3487d6eead9e70b829b86820b93b7e520daf40b95c07cccd5b9ea692156d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/attachment.md"
+        },
+        {
+            "bytes": 2145,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/avatar.md",
+            "sha256": "70a36b755241bb895e4ab74a9153a4a56fa8bbdb8f871da551d887f3d23cf987",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/avatar.md"
+        },
+        {
+            "bytes": 2021,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/billing-contract-subscription.md",
+            "sha256": "c131ed798a4218e36c8f8fa9468f68b4d5a795a2f0306d2a69d169277d09def7",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/billing-contract-subscription.md"
+        },
+        {
+            "bytes": 2060,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/bunqme.md",
+            "sha256": "fec7c6ffc30f6b7504378c47d474180c298478e2a3c2c5182874519e0b795a18",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/bunqme.md"
+        },
+        {
+            "bytes": 2281,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/bunqme/bunqme-fundraiser-profile.md",
+            "sha256": "d7a1841441d3446698d14f3e3b04897eedfeffd1da91df55aed31054eab52ada",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/bunqme/bunqme-fundraiser-profile.md"
+        },
+        {
+            "bytes": 2062,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/bunqme/bunqme-fundraiser-result.md",
+            "sha256": "84f284cfb5eb0e1ddd7d02827cbfb2e10ffceac658c97be9155d71b093d4cd19",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/bunqme/bunqme-fundraiser-result.md"
+        },
+        {
+            "bytes": 2049,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/bunqme/bunqme-tab-response.md",
+            "sha256": "15b8d363aae0f7228012f79d8857219d1530e0da405f7f397577b9e2609ee496",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/bunqme/bunqme-tab-response.md"
+        },
+        {
+            "bytes": 2844,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/bunqme/bunqme-tab.md",
+            "sha256": "718959f41361a0e933e65f4c6cee457d721ef4763976e1753b84974b0c0497cd",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/bunqme/bunqme-tab.md"
+        },
+        {
+            "bytes": 3112,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/callback-url-oauth.md",
+            "sha256": "1bc2283404ca419ae52d1faf6473948e3dfd5dd5aa6067bfab948e9c20b41bbd",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/callback-url-oauth.md"
+        },
+        {
+            "bytes": 2111,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/cards.md",
+            "sha256": "8a7b9ded6a8f42ae59010958b54faa9b567fe27e72ce03aa51c241d13d414967",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/cards.md"
+        },
+        {
+            "bytes": 2205,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/cards/card-batch.md",
+            "sha256": "124eb9e5f2f0ac940d383dcdc6ef2a44baae3bc96f588209659541680dcaea78",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/cards/card-batch.md"
+        },
+        {
+            "bytes": 1962,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/cards/card-credit.md",
+            "sha256": "a8ae4c117ad07a13b67fd92118652d4cdb9bb7faa2d5c207856d53522983ebbd",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/cards/card-credit.md"
+        },
+        {
+            "bytes": 1958,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/cards/card-debit.md",
+            "sha256": "3b73351280a3175bac21c5760aff45e953c41c40ae1394ce26ab0da9a0b874c3",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/cards/card-debit.md"
+        },
+        {
+            "bytes": 1953,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/cards/card-name.md",
+            "sha256": "bad494200b605d36442df85e1f3c32f6da0b9a6024fb8d28c1d0c638f7040f4e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/cards/card-name.md"
+        },
+        {
+            "bytes": 2222,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/cards/card-replace.md",
+            "sha256": "88dacf45904b8300fd059ccc02f3da4f8bdc9ef35a2717318e31c079d23d8773",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/cards/card-replace.md"
+        },
+        {
+            "bytes": 2415,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/cards/card.md",
+            "sha256": "0ac5ff01d0536885f90941dbd844831de852db96b03462fddb2c1717465a2239",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/cards/card.md"
+        },
+        {
+            "bytes": 2212,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/hidden-references.md",
+            "sha256": "a44f982e775e11e167e98b331920c2f42f9140083fdb3b9d14b803f9393b48cc",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/hidden-references.md"
+        },
+        {
+            "bytes": 2773,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/hidden-references/certificate-pinned.md",
+            "sha256": "43491bac8ffbee74fc5b5603e5ccff7e2fec199474ec1fe867e9319393b6337f",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/hidden-references/certificate-pinned.md"
+        },
+        {
+            "bytes": 2272,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/hidden-references/challenge-request.md",
+            "sha256": "3b237544653de2eccb5c4cc7699bc69ce1ad298b7dc28e14e9826e7a3b525d68",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/hidden-references/challenge-request.md"
+        },
+        {
+            "bytes": 2693,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/hidden-references/company.md",
+            "sha256": "99ae76b6cded2f624f64f0f3bf06539ee86dd76b031d41cefac59fcda0c458ac",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/hidden-references/company.md"
+        },
+        {
+            "bytes": 3935,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/hidden-references/credential-password-ip.md",
+            "sha256": "ec7daadc6d9156fe9afdbeb2a00946ae362e3cb1acd140a1e2b85ade1d4ba9fa",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/hidden-references/credential-password-ip.md"
+        },
+        {
+            "bytes": 2030,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/hidden-references/feature-announcement.md",
+            "sha256": "d373f9d8a2479ecd61d49410278ab03c7fa00f1b0f89831e9ffe89458f230a3d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/hidden-references/feature-announcement.md"
+        },
+        {
+            "bytes": 2414,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/api-reference/start-here.md",
+            "sha256": "98e36691bc1de6e9720995b77eb4e52ad0b3c3bd0021759096ffb86c27ee2505",
+            "status": "ok",
+            "url": "https://doc.bunq.com/api-reference/start-here.md"
+        },
+        {
+            "bytes": 6703,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/banking-as-a-service/bank-accounts-as-a-service.md",
+            "sha256": "4c92b81c9c47a4f6521a79e04abb617eaed9bbbe31c270b04e9d800ebfcadcf9",
+            "status": "ok",
+            "url": "https://doc.bunq.com/banking-as-a-service/bank-accounts-as-a-service.md"
+        },
+        {
+            "bytes": 7780,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/banking-as-a-service/cards-as-a-service.md",
+            "sha256": "382f97b9a27cb1927394a95610bd14f6a5ff85957f65a0e21fe57edda0dc8b7d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/banking-as-a-service/cards-as-a-service.md"
+        },
+        {
+            "bytes": 2281,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/banking-as-a-service/getting-started-with-banking-as-a-service.md",
+            "sha256": "b141586389e9299c21f76ae16e5ffe662f65e41ca20b34c3964b3ed7d3f579db",
+            "status": "ok",
+            "url": "https://doc.bunq.com/banking-as-a-service/getting-started-with-banking-as-a-service.md"
+        },
+        {
+            "bytes": 9771,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/banking-as-a-service/getting-started-with-banking-as-a-service/introduction-and-core-paradigms.md",
+            "sha256": "5e74d729777137ac861187daf0381f1b583177772ce5fa5156c8e1df30289981",
+            "status": "ok",
+            "url": "https://doc.bunq.com/banking-as-a-service/getting-started-with-banking-as-a-service/introduction-and-core-paradigms.md"
+        },
+        {
+            "bytes": 5431,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/banking-as-a-service/getting-started-with-banking-as-a-service/overview.md",
+            "sha256": "cef988c79d035f6c02324f30ce92879210e462b2795d3351ccb34f1ef317154e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/banking-as-a-service/getting-started-with-banking-as-a-service/overview.md"
+        },
+        {
+            "bytes": 5495,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/banking-as-a-service/know-your-customer-as-a-service.md",
+            "sha256": "6ba4e25a9b78d909d9940d72a8619782bd6426ea308177127005718139bfdf53",
+            "status": "ok",
+            "url": "https://doc.bunq.com/banking-as-a-service/know-your-customer-as-a-service.md"
+        },
+        {
+            "bytes": 7108,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/banking-as-a-service/payments-as-a-service.md",
+            "sha256": "6a241e8105229260c8ca350aa4a07abe6580fe0855b39f866d87131cfa608966",
+            "status": "ok",
+            "url": "https://doc.bunq.com/banking-as-a-service/payments-as-a-service.md"
+        },
+        {
+            "bytes": 2948,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/api-versioning-and-deprecation.md",
+            "sha256": "df5b681010038d8e62e6b34d977b51b5f007bb1492b4adbcf74d0d6552ed052b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/api-versioning-and-deprecation.md"
+        },
+        {
+            "bytes": 2779,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication.md",
+            "sha256": "fdaa3053b3ddad6ee85f5da0aaaf3b3d1c845329fdf15801a0dc28164fdc53e3",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication.md"
+        },
+        {
+            "bytes": 4147,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication/api-keys.md",
+            "sha256": "8fbf7e565e3844c8d64cccb9cd759fd18da3a6b2c925b55147e4571a0c8d72e6",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication/api-keys.md"
+        },
+        {
+            "bytes": 10212,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication/oauth.md",
+            "sha256": "1f00eb869995cbb49106820de28309b47fe9aab353ca255cb4724634284a8d0e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication/oauth.md"
+        },
+        {
+            "bytes": 4742,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication/oauth/handle-the-authorization-code.md",
+            "sha256": "70c1f345de28225349bbaab1b92d24c6647475f4d2c1d05cefe9ba10ae49fb20",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication/oauth/handle-the-authorization-code.md"
+        },
+        {
+            "bytes": 3643,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication/oauth/making-api-calls-on-behalf-of-bunq-users.md",
+            "sha256": "a5fd331fe625c253e914cf7095bd0ae91c985dd16432079ef6a8f1652bc6ba78",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication/oauth/making-api-calls-on-behalf-of-bunq-users.md"
+        },
+        {
+            "bytes": 5345,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication/oauth/python-code-example-psd2-oauth-integration.md",
+            "sha256": "1778b332c712868148ce6b8070df97bd648a1201348861c80fae0faa724c1eb8",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication/oauth/python-code-example-psd2-oauth-integration.md"
+        },
+        {
+            "bytes": 3981,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication/oauth/redirect-users-to-authorize-your-app.md",
+            "sha256": "84cca8fc7c79f55e9b2ec1bcc7efe1a3efd79ecac038443f8f16b890a656839a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication/oauth/redirect-users-to-authorize-your-app.md"
+        },
+        {
+            "bytes": 3437,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication/oauth/register-oauth-client.md",
+            "sha256": "7904af97cc8c08fd5cc0632c7444686b489fb495865a05808c93db2dec21bcf2",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication/oauth/register-oauth-client.md"
+        },
+        {
+            "bytes": 3442,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/authentication/oauth/use-the-access-token-to-get-a-user-session.md",
+            "sha256": "96c168e8a130eab4620c0be088a546ddbca52128b70b81be48d5cbd0954663a4",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/authentication/oauth/use-the-access-token-to-get-a-user-session.md"
+        },
+        {
+            "bytes": 3071,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/bunq-api-objects.md",
+            "sha256": "7fa1e7fd80e19536e02a165595f99b1277ef9b83b5fd985f122f9e58265286d3",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/bunq-api-objects.md"
+        },
+        {
+            "bytes": 3181,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/bunq-api-objects/attachment-and-note-attachment.md",
+            "sha256": "e0453c7c853c35378ff4b6e7ca2ba5a80f8f6ff3438962dfdc6234e8ff9e291b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/bunq-api-objects/attachment-and-note-attachment.md"
+        },
+        {
+            "bytes": 15448,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/bunq-api-objects/card.md",
+            "sha256": "0378c01a5d0391c6e092b563bfa9f0db7b530c5f0b3103f2efba424c2537e271",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/bunq-api-objects/card.md"
+        },
+        {
+            "bytes": 7442,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/bunq-api-objects/monetary-account.md",
+            "sha256": "080445de86fef3bccb9ea34770b45b62b525d5ef33aa94f24f970a045f09d152",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/bunq-api-objects/monetary-account.md"
+        },
+        {
+            "bytes": 10261,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/bunq-api-objects/payment.md",
+            "sha256": "ce67efa87c38dbfac362e97904d730e5a589a6a1720c3cf2c484d9780ce1c8ea",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/bunq-api-objects/payment.md"
+        },
+        {
+            "bytes": 9155,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/bunq-api-objects/requestinquiry.md",
+            "sha256": "feab7469dba96675737e2a7ff3a52ca751388c04d711321cdc0bff75de9344d7",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/bunq-api-objects/requestinquiry.md"
+        },
+        {
+            "bytes": 32916,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/bunq-api-objects/user.md",
+            "sha256": "87b9e4ffe04ed7bf8edf7a45dc878cba4a00e509d6d928b4feb21d70dbf17451",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/bunq-api-objects/user.md"
+        },
+        {
+            "bytes": 12669,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/callbacks-webhooks.md",
+            "sha256": "d85fadda74f1d218962d168b1b06e0e979e481bce773095e806fb9885bbf7b94",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/callbacks-webhooks.md"
+        },
+        {
+            "bytes": 3812,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/environments.md",
+            "sha256": "5f7390cbf29ba9ab3332bfa9aae135f7ae119cbc59b68bff0ba0b87f2591c33d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/environments.md"
+        },
+        {
+            "bytes": 4156,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/errors.md",
+            "sha256": "62e7e174ca3ef581339679b561da63e56c2fb98fad3c8780adebd257f25f26d6",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/errors.md"
+        },
+        {
+            "bytes": 4142,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/geolocations.md",
+            "sha256": "5bb95b757411d4057330e9808e4aa7e97c387016ef7947c3bc350913f355a78d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/geolocations.md"
+        },
+        {
+            "bytes": 6020,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/getting-started.md",
+            "sha256": "ed5bccf85ab38beea3445289e6dc67b752fe38bafe3eb4c93829bd441304d6de",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/getting-started.md"
+        },
+        {
+            "bytes": 7811,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/headers.md",
+            "sha256": "8a77cfaff6807cf5ceddfe2fd4c1e948ee01c802c65b1c2539800e94ab8bef91",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/headers.md"
+        },
+        {
+            "bytes": 2819,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/moving-to-production.md",
+            "sha256": "88e635ea6369ad739b5ff285b25f479ed91e0caa0b5357cab476a33d9d33f5fd",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/moving-to-production.md"
+        },
+        {
+            "bytes": 5271,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/pagination.md",
+            "sha256": "0402bb6eb584a09a728a85b7454e071620ee886c98afea0faacd15636679ce5f",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/pagination.md"
+        },
+        {
+            "bytes": 6365,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/querying-payments.md",
+            "sha256": "f486796f7d1eee920ac27ce86441158b00a974987c6f1e0888880be93d302074",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/querying-payments.md"
+        },
+        {
+            "bytes": 3624,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/rate-limits.md",
+            "sha256": "f786e11fc1c65b92035b404b003c8d76e4de9e934637da04fc342ea5b97a0518",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/rate-limits.md"
+        },
+        {
+            "bytes": 3983,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/response-body-formatting.md",
+            "sha256": "2509ddb639fa9090bdc0139c586ca20954749f827f37e63d4a5458ccd940387a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/response-body-formatting.md"
+        },
+        {
+            "bytes": 8189,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/signing.md",
+            "sha256": "4d183f1c231b2d09446abcdbf5d12d9f4a9c9c773e9d0af3d2d17a6a1523a707",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/signing.md"
+        },
+        {
+            "bytes": 2344,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/signing/php-code-example.md",
+            "sha256": "76a3967428112a7dc94d38017fc37f655da44a3f8cc5effd6daec23401dcd718",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/signing/php-code-example.md"
+        },
+        {
+            "bytes": 27522,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/signing/python-code-example.md",
+            "sha256": "23045f0a9f9ba235f6d19cb2e0edc623c9ff2d34d7d23af527e7a3a07b793720",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/signing/python-code-example.md"
+        },
+        {
+            "bytes": 10802,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/signing/python-code-example/full-bunq_lib.py.md",
+            "sha256": "5af832ab8da5ed0e67d7632846818420c8d1cb4532ed2fb6a8068b682382ad11",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/signing/python-code-example/full-bunq_lib.py.md"
+        },
+        {
+            "bytes": 2761,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/signing/python-code-example/full-main.py.md",
+            "sha256": "a260741ccb58e20d6919c051a86dedfae84dc52b00da350e96f73b2e96b70211",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/signing/python-code-example/full-main.py.md"
+        },
+        {
+            "bytes": 6391,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/signing/python-code-example/full-signing.py.md",
+            "sha256": "c433c78c0f173e28584660826673d91c3dcfccdf77729e75978b43347521b9d7",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/signing/python-code-example/full-signing.py.md"
+        },
+        {
+            "bytes": 5454,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/basics/whitelisting-and-updating-ip-addresses.md",
+            "sha256": "00a15d4046bfe1f8f108c33badd7e910d8d554a03f61e7acedd0a4672a1aa842",
+            "status": "ok",
+            "url": "https://doc.bunq.com/basics/whitelisting-and-updating-ip-addresses.md"
+        },
+        {
+            "bytes": 1962,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/confirmation-of-funds.md",
+            "sha256": "087f6c45a7eb6ab4b3f12ce3aa363c41ba8354ebf890b1e4a9f018ba479a3ce9",
+            "status": "ok",
+            "url": "https://doc.bunq.com/confirmation-of-funds.md"
+        },
+        {
+            "bytes": 4822,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/content-and-exports.md",
+            "sha256": "b2837e35e0f8e65c806bd3ce8a7e9ee4e6996bf4a285f463ea136af115f30a91",
+            "status": "ok",
+            "url": "https://doc.bunq.com/content-and-exports.md"
+        },
+        {
+            "bytes": 1670,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/content.md",
+            "sha256": "4e33931dfb1f221a8c466514852c1ddfe911bf17b7dde0d762a7a5ca6dd0101d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/content.md"
+        },
+        {
+            "bytes": 43635,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/credential-password-ip.md",
+            "sha256": "f199562a4f0287a2a9fd0121529af7f8b6bd9f4522182d3fc75000d13a74f911",
+            "status": "ok",
+            "url": "https://doc.bunq.com/credential-password-ip.md"
+        },
+        {
+            "bytes": 1864,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/currency-cloud.md",
+            "sha256": "18047f2c308e7a31d9b9cbc178ae5c4a0afc0449842f73a5a8be8984bd05950a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/currency-cloud.md"
+        },
+        {
+            "bytes": 2798,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/currency-cloud/currency-cloud-benificiairy.md",
+            "sha256": "3321f6b40bf65101361b716d11127b7764aead61777046304e8dca6930bc60f7",
+            "status": "ok",
+            "url": "https://doc.bunq.com/currency-cloud/currency-cloud-benificiairy.md"
+        },
+        {
+            "bytes": 2013,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/currency-cloud/payment-quote.md",
+            "sha256": "24a2bfcec942632041b1a47cc371998ad318f404417758f480912b6ad1c0c00f",
+            "status": "ok",
+            "url": "https://doc.bunq.com/currency-cloud/payment-quote.md"
+        },
+        {
+            "bytes": 1835,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/currency-conversion.md",
+            "sha256": "cc7bd1f5d06d928ab1679100e363a049a2cd3c5dd43628cb1ca220cbe8a69590",
+            "status": "ok",
+            "url": "https://doc.bunq.com/currency-conversion.md"
+        },
+        {
+            "bytes": 2289,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/currency-conversion/convert.md",
+            "sha256": "fe80571844cab55a1acf502a720cceeeb8f45f13a8f49a7929682ac3a114ff1b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/currency-conversion/convert.md"
+        },
+        {
+            "bytes": 1716,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/currency-conversion/quotes.md",
+            "sha256": "2f7fa5a239bb46a9ea160e220bfff2b287f006c65bc2035f7b4b868d844aa312",
+            "status": "ok",
+            "url": "https://doc.bunq.com/currency-conversion/quotes.md"
+        },
+        {
+            "bytes": 3179,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/customer-statements.md",
+            "sha256": "a77d368f8cef75a490effc0c4b6de719549fa8e9088a9a0e5bff9544d4f9768c",
+            "status": "ok",
+            "url": "https://doc.bunq.com/customer-statements.md"
+        },
+        {
+            "bytes": 2810,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/devices.md",
+            "sha256": "80e652f97a0efc2bc04251c14c58423163ebfd0b29461326521b63f6e9ccee35",
+            "status": "ok",
+            "url": "https://doc.bunq.com/devices.md"
+        },
+        {
+            "bytes": 4687,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/draft-payment.md",
+            "sha256": "d5033eff6783b1364bed8a712e2cfb5e4c97eca9cb452258b964e0f0b58cb3d3",
+            "status": "ok",
+            "url": "https://doc.bunq.com/draft-payment.md"
+        },
+        {
+            "bytes": 2139,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/event.md",
+            "sha256": "67a970ec64fd5025c40c3f48d561894be5ad3709e2d99992da077b9c03a10a9e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/event.md"
+        },
+        {
+            "bytes": 1894,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/exports.md",
+            "sha256": "aa6797425064522063d29056e4b52cb06d3494f000cf89a29d1d0d02e6a427c0",
+            "status": "ok",
+            "url": "https://doc.bunq.com/exports.md"
+        },
+        {
+            "bytes": 3038,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/exports/export-annual-overview.md",
+            "sha256": "774a8e1b556e36564445752e339b6072e746fd47e05da39e75796b32733b4be4",
+            "status": "ok",
+            "url": "https://doc.bunq.com/exports/export-annual-overview.md"
+        },
+        {
+            "bytes": 2533,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/exports/export-rib.md",
+            "sha256": "4d7453556e37f54ead45238fe5132b2df4239b2a0ec405da53802c67c208143d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/exports/export-rib.md"
+        },
+        {
+            "bytes": 3924,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/exports/export-statement-card.md",
+            "sha256": "4e869fc04fa342064d51654b6be3155391759975942f5d5b35c666cd8a36945e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/exports/export-statement-card.md"
+        },
+        {
+            "bytes": 2734,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/generated-cvc2.md",
+            "sha256": "a2e684049f52b551df5d36a97d7e21d0deca2697468d84c22b4da2f38f23cb7e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/generated-cvc2.md"
+        },
+        {
+            "bytes": 5056,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/getting-started/readme.md",
+            "sha256": "db0252c606eefa8747a9f424a350afc56eb1198039b67f56f0e6992a6fe17add",
+            "status": "ok",
+            "url": "https://doc.bunq.com/getting-started/readme.md"
+        },
+        {
+            "bytes": 3256,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/getting-started/tools.md",
+            "sha256": "effdbd9b3d451239efd1c8052e73ae1c1bad5fd50428a25808714db45aab6818",
+            "status": "ok",
+            "url": "https://doc.bunq.com/getting-started/tools.md"
+        },
+        {
+            "bytes": 4875,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/getting-started/tools/android-emulator.md",
+            "sha256": "a79d21db211189d9a263264e3937f16af461c107305d6f23289752347f50bec1",
+            "status": "ok",
+            "url": "https://doc.bunq.com/getting-started/tools/android-emulator.md"
+        },
+        {
+            "bytes": 2333,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/getting-started/tools/documents-mcp.md",
+            "sha256": "0015febec71df2c9b898b070c4849b4e062939aeeae748e6dd00ea761732463e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/getting-started/tools/documents-mcp.md"
+        },
+        {
+            "bytes": 2487,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/getting-started/tools/postman.md",
+            "sha256": "f12909aba543663f96ee39f50b928e2be62274b5df619769f684e69d3549db9d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/getting-started/tools/postman.md"
+        },
+        {
+            "bytes": 2627,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/ideal-merchant-transaction.md",
+            "sha256": "6cfe7b225cb6bc3358d66af5906b30e9e769b06ce8c68d004767e4e45e1bc16b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/ideal-merchant-transaction.md"
+        },
+        {
+            "bytes": 2454,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/insights.md",
+            "sha256": "fc934f53b0e1d477e06831359d4aa640b5a9c5b2d648baec83b74c4f1c707c0d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/insights.md"
+        },
+        {
+            "bytes": 2889,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/installation.md",
+            "sha256": "b794ed6019d41cd573e092292d9775fa43d2225742de2f43311e0cd09798d151",
+            "status": "ok",
+            "url": "https://doc.bunq.com/installation.md"
+        },
+        {
+            "bytes": 2770,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/invoice-export.md",
+            "sha256": "e6c419b3883dfdb5880d1c744f32d60e75d7f74e9b9b0da6b3bfe82e441542f3",
+            "status": "ok",
+            "url": "https://doc.bunq.com/invoice-export.md"
+        },
+        {
+            "bytes": 2963,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/invoice.md",
+            "sha256": "e7cb1b7464f5b2fd5d0685761e0b55c9aa416b5db768c4d67eca980dedcb282c",
+            "status": "ok",
+            "url": "https://doc.bunq.com/invoice.md"
+        },
+        {
+            "bytes": 1917,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/legal-name.md",
+            "sha256": "3030c3f143991cca1f600af459f60f6add499b4ab897439aa2b1dcfc6da292a2",
+            "status": "ok",
+            "url": "https://doc.bunq.com/legal-name.md"
+        },
+        {
+            "bytes": 1897,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/limit.md",
+            "sha256": "312a4389a27839d426ab3a5b96f5a9d085e73e2a6d3a6bf9007d05281c63b706",
+            "status": "ok",
+            "url": "https://doc.bunq.com/limit.md"
+        },
+        {
+            "bytes": 2588,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/mastercard-action.md",
+            "sha256": "0bd065a8c90bc252a7441368c6b4e5a3b6ccc53efadd22cf339c36074751b40f",
+            "status": "ok",
+            "url": "https://doc.bunq.com/mastercard-action.md"
+        },
+        {
+            "bytes": 3161,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/monetary-account.md",
+            "sha256": "91945638348f6fb2655c2864a791425b36b3342b0bc35604b15132146307291b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/monetary-account.md"
+        },
+        {
+            "bytes": 2761,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/monetary-account/monetary-account-bank.md",
+            "sha256": "fccdfc0be2c47f4aab7c4af1797f30641f5c816103def2bdcff076d4b056b38b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/monetary-account/monetary-account-bank.md"
+        },
+        {
+            "bytes": 2788,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/monetary-account/monetary-account-card.md",
+            "sha256": "5376688d79366fb24b213e60101a0ab308c69c96060674081fc4403e20ddbbae",
+            "status": "ok",
+            "url": "https://doc.bunq.com/monetary-account/monetary-account-card.md"
+        },
+        {
+            "bytes": 2845,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/monetary-account/monetary-account-external-savings.md",
+            "sha256": "586c5f13696917de92c43dc611e560fa3c95daaa706e0fd3a11d296f680eba80",
+            "status": "ok",
+            "url": "https://doc.bunq.com/monetary-account/monetary-account-external-savings.md"
+        },
+        {
+            "bytes": 2789,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/monetary-account/monetary-account-external.md",
+            "sha256": "091aafac08cfee2786818dc016c707389698cbcd5c75bd78663d652588db0265",
+            "status": "ok",
+            "url": "https://doc.bunq.com/monetary-account/monetary-account-external.md"
+        },
+        {
+            "bytes": 3056,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/monetary-account/monetary-account-joint.md",
+            "sha256": "5082d0ba69421dab927abfeead8c9fedc5d3f61ad00af6bc0c899d5e2884a111",
+            "status": "ok",
+            "url": "https://doc.bunq.com/monetary-account/monetary-account-joint.md"
+        },
+        {
+            "bytes": 2845,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/monetary-account/monetary-account-savings-external.md",
+            "sha256": "a72428e49c0face4e92c85c78e3dd393558c42f9432f34db95c81af3ecd41799",
+            "status": "ok",
+            "url": "https://doc.bunq.com/monetary-account/monetary-account-savings-external.md"
+        },
+        {
+            "bytes": 2782,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/monetary-account/monetary-account-savings.md",
+            "sha256": "8f8bfe0cf3a622565de16bf17e0ae520b8f499fd3c6935249857843c045f3051",
+            "status": "ok",
+            "url": "https://doc.bunq.com/monetary-account/monetary-account-savings.md"
+        },
+        {
+            "bytes": 2222,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/name.md",
+            "sha256": "e10fecd3da51c3d753033dde28c0432356bb54f317af3f035000dfcd8f91ec3b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/name.md"
+        },
+        {
+            "bytes": 8562,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment.md",
+            "sha256": "4455a22058c747c42618b6deae71c0828f08907fef8965266dde64194304a320",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment.md"
+        },
+        {
+            "bytes": 5107,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/adyen-card-transaction.md",
+            "sha256": "e56f882c81001b7611c24c7717e49350565a5d2a265e33f5de8c565c43c15aa5",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/adyen-card-transaction.md"
+        },
+        {
+            "bytes": 5452,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/bunqme-fundraiser-result.md",
+            "sha256": "a909c0816736fe3576f6fb941f82d4a6f95615025a2abf6baa203e2572d324dd",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/bunqme-fundraiser-result.md"
+        },
+        {
+            "bytes": 4886,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/draft-payment.md",
+            "sha256": "719b293992b7c3a3648e116cbcda95998a86488ce1677d101fc9efce0c96de67",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/draft-payment.md"
+        },
+        {
+            "bytes": 6085,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/ideal-merchant-transaction.md",
+            "sha256": "12bc230bb2b26d61f4d6e88e2965a45580c205aa7e98a4abc3ac5fe3d941de03",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/ideal-merchant-transaction.md"
+        },
+        {
+            "bytes": 5880,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/mastercard-action.md",
+            "sha256": "56677cf5dbe165f89403298dbcee2258c37b8b8e759c0f6de37a8fa07ce212c8",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/mastercard-action.md"
+        },
+        {
+            "bytes": 5324,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/open-banking-merchant.md",
+            "sha256": "04a661b21babb4e0e0df0db44b5dbb23a8c4cde80ea4c3c9407cfd1765ee1a47",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/open-banking-merchant.md"
+        },
+        {
+            "bytes": 4900,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/payment-batch.md",
+            "sha256": "f31b542a0db77cbfffd0b802e881f1ef2949fcfe0a67d34355d1d6c95d552478",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/payment-batch.md"
+        },
+        {
+            "bytes": 4946,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/payment-delayed.md",
+            "sha256": "8d70121f75b33b5ec8f7b62cc45e7c411eaa8be9a0116cbb2384fa9e470b4b71",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/payment-delayed.md"
+        },
+        {
+            "bytes": 4762,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/payment.md",
+            "sha256": "fb9315a9f956d3cd3b674b35a04cb9d84a946ca73d6dba5a710b528ea66f30b7",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/payment.md"
+        },
+        {
+            "bytes": 5084,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/request-inquiry-batch.md",
+            "sha256": "512791f87c057488dc57ee83da25305d49a8363a5f2df269a7d04ef1afc3f959",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/request-inquiry-batch.md"
+        },
+        {
+            "bytes": 4969,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/request-response.md",
+            "sha256": "cb29fd412718e8f7912683d9ab141184f540bae2fe593c2543895f1cadeb8e19",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/request-response.md"
+        },
+        {
+            "bytes": 8311,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/schedule-payment.md",
+            "sha256": "97bf9fa01ab4b49a962850ddcd14ea18a08fc2cae765dcbfe7fe7ed8e69d7df1",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/schedule-payment.md"
+        },
+        {
+            "bytes": 8963,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/schedule-request.md",
+            "sha256": "d8e6b31dfe1fd175d4f2734234c1e523446ca1936c11cf17b0862875693dfc62",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/schedule-request.md"
+        },
+        {
+            "bytes": 5461,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/sofort.md",
+            "sha256": "29c821a1d53bd840d3cb75d133ac1cf0d840f114d960542c9f2f66f1e01d2904",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/sofort.md"
+        },
+        {
+            "bytes": 5107,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/switch-service-payment.md",
+            "sha256": "9535160927638babe5f432b3f41adcb59517d58070651db25a0b8faaa8b13369",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/switch-service-payment.md"
+        },
+        {
+            "bytes": 5776,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/note-text-and-attachment/whitelist-result.md",
+            "sha256": "f4ad51e4f03f69697833e827c1d47af8566e45912ec466fdef4abc3db5b6b06a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/note-text-and-attachment/whitelist-result.md"
+        },
+        {
+            "bytes": 2226,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/notification-filter.md",
+            "sha256": "3e8342e268e21c4b344525c29d0f235f6658b4cab45682f2fce7a7feeaf01284",
+            "status": "ok",
+            "url": "https://doc.bunq.com/notification-filter.md"
+        },
+        {
+            "bytes": 2271,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/notification-filter/notification-filter-email.md",
+            "sha256": "9fe6cbd295ab020b64ff5c735192725c9dbc5d6b4dfd30a07acb19c9589e39ff",
+            "status": "ok",
+            "url": "https://doc.bunq.com/notification-filter/notification-filter-email.md"
+        },
+        {
+            "bytes": 2281,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/notification-filter/notification-filter-failure.md",
+            "sha256": "6bcea6e8d66c7017fb35e51f35f9ddbd8ca32f3ba92c3eaf7129e48f5994ee65",
+            "status": "ok",
+            "url": "https://doc.bunq.com/notification-filter/notification-filter-failure.md"
+        },
+        {
+            "bytes": 2266,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/notification-filter/notification-filter-push.md",
+            "sha256": "d8ddf1df737baeba2c5342ae3b4e41a456d7b492ae07d8e5dc3fdd38d117a70e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/notification-filter/notification-filter-push.md"
+        },
+        {
+            "bytes": 2261,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/notification-filter/notification-filter-url.md",
+            "sha256": "1f3178fa457ad4e384ac9e8a732210baef69df245086ddd9cb2d02df547a52b6",
+            "status": "ok",
+            "url": "https://doc.bunq.com/notification-filter/notification-filter-url.md"
+        },
+        {
+            "bytes": 4063,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/oauth.md",
+            "sha256": "1382e3ebcf13e36841f7e07d60b98f58d511761a4d6eabf3dd2adb53ee919772",
+            "status": "ok",
+            "url": "https://doc.bunq.com/oauth.md"
+        },
+        {
+            "bytes": 4161,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment-auto-allocation.md",
+            "sha256": "29feb017be627fed9e6556a9266240051f52e7e20ac002821bd8e7289679e73c",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment-auto-allocation.md"
+        },
+        {
+            "bytes": 2195,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment-service-provider.md",
+            "sha256": "b0c5c12c06b68fd9428820348afc96fc4270aada14b38895fa3aa295dfab836c",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment-service-provider.md"
+        },
+        {
+            "bytes": 3247,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment-service-provider/deprecated-since-20260309-payment-service-provider-draft-payment.md",
+            "sha256": "4856d59646bc39e6f441ac0715113d70b79a36d55e25659f560c87c57b117aef",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment-service-provider/deprecated-since-20260309-payment-service-provider-draft-payment.md"
+        },
+        {
+            "bytes": 2312,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment-service-provider/payment-service-provider-credential.md",
+            "sha256": "2be674dcd9dbd496394b61bb698117983c20499ed25eadeb9ed73a9a4520f10a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment-service-provider/payment-service-provider-credential.md"
+        },
+        {
+            "bytes": 6877,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment-service-provider/payment-service-provider-issuer-transaction.md",
+            "sha256": "89536f21895891127f765c80a5bf512156258b8f2164f375feb41fb572838375",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment-service-provider/payment-service-provider-issuer-transaction.md"
+        },
+        {
+            "bytes": 2544,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment.md",
+            "sha256": "8fe94294107b6b5b6d6ac25893f675b0c068eb3b01f25af8e8a995c4b1055f4f",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment.md"
+        },
+        {
+            "bytes": 3471,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment/payment-auto-allocate.md",
+            "sha256": "a624e59ef10dc0f497fae90a8d3a3ffb726a6132f6c4c0bed40896b1efa541e8",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment/payment-auto-allocate.md"
+        },
+        {
+            "bytes": 2839,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment/payment-batch.md",
+            "sha256": "d5af4ac9920239ae8977b098ce37e042ea3774269ab25098673366fa6f9217a1",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment/payment-batch.md"
+        },
+        {
+            "bytes": 2828,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/payment/payment.md",
+            "sha256": "4984491ac56e2de16dc6d61bdaff583686f1d4e5523b5e1bbe41be0899aa67b0",
+            "status": "ok",
+            "url": "https://doc.bunq.com/payment/payment.md"
+        },
+        {
+            "bytes": 3023,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/psd2/account-information-service-provider-aisp.md",
+            "sha256": "b1d9d2bbd6d16d9c1c752273681b1ca3deeaa5ee4199554648f1d4165af92b85",
+            "status": "ok",
+            "url": "https://doc.bunq.com/psd2/account-information-service-provider-aisp.md"
+        },
+        {
+            "bytes": 3658,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/psd2/are-you-a-third-party-provider-tpp-start-here.md",
+            "sha256": "485c8cedf93cacfbe558d1aed16980878b956ce5de5d013f48bd6bd43f7145a1",
+            "status": "ok",
+            "url": "https://doc.bunq.com/psd2/are-you-a-third-party-provider-tpp-start-here.md"
+        },
+        {
+            "bytes": 3427,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/psd2/are-you-a-third-party-provider-tpp-start-here/change-your-avatar.md",
+            "sha256": "fdb7aed1be52153a04644562b7266a30676d9faf87292b802daf2f557658cb6a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/psd2/are-you-a-third-party-provider-tpp-start-here/change-your-avatar.md"
+        },
+        {
+            "bytes": 12870,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/psd2/are-you-a-third-party-provider-tpp-start-here/register-as-a-tpp.md",
+            "sha256": "19f734f86a4a7026ea49cb79508ca82c02b63e959d2393b15e86882da30e7934",
+            "status": "ok",
+            "url": "https://doc.bunq.com/psd2/are-you-a-third-party-provider-tpp-start-here/register-as-a-tpp.md"
+        },
+        {
+            "bytes": 2979,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/psd2/card-based-payment-instrument-issuer-cbpii.md",
+            "sha256": "530ff8a0852c72ae2b7c79c3670ccc69b3b34e6b9ee46afbbeefcbf50d0e8c92",
+            "status": "ok",
+            "url": "https://doc.bunq.com/psd2/card-based-payment-instrument-issuer-cbpii.md"
+        },
+        {
+            "bytes": 4171,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/psd2/locked-out-of-your-installation-by-ip-address.md",
+            "sha256": "0bf30484db81287c363aedc7d1a5a25ca1bbb56a2ed3701c027891f65a029484",
+            "status": "ok",
+            "url": "https://doc.bunq.com/psd2/locked-out-of-your-installation-by-ip-address.md"
+        },
+        {
+            "bytes": 6328,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/psd2/payment-initiation-service-provider-pisp.md",
+            "sha256": "0e7f5c74dbc92100f0a177bf14fdc3afa271a8c481ea3d6431e8d29f24c0f981",
+            "status": "ok",
+            "url": "https://doc.bunq.com/psd2/payment-initiation-service-provider-pisp.md"
+        },
+        {
+            "bytes": 5197,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/psd2/rotating-your-qseal-certificate.md",
+            "sha256": "4d64566576aaf49e8f788413aaaa1e3f9f0d0d6d198af7e40540f0cca69a21c2",
+            "status": "ok",
+            "url": "https://doc.bunq.com/psd2/rotating-your-qseal-certificate.md"
+        },
+        {
+            "bytes": 1892,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/request.md",
+            "sha256": "7b658860f16ef230ae121c75deb8729be0f53548f2700184033cff7bd90b471a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/request.md"
+        },
+        {
+            "bytes": 2895,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/request/request-inquiry-batch.md",
+            "sha256": "4da662e5dc828720b78e1214d407788483c7903a5c5f3b8a65b6ec0215abc442",
+            "status": "ok",
+            "url": "https://doc.bunq.com/request/request-inquiry-batch.md"
+        },
+        {
+            "bytes": 2853,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/request/request-inquiry.md",
+            "sha256": "319f5a5992576ec26eea53ca117869270ee3e9191f6ccfe98a467f0e92cf2d21",
+            "status": "ok",
+            "url": "https://doc.bunq.com/request/request-inquiry.md"
+        },
+        {
+            "bytes": 2577,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/request/request-response.md",
+            "sha256": "7df4a6faebb7d2d2dfc9adce3cbc754ea5b679b2094e3b22e556392918ca33e1",
+            "status": "ok",
+            "url": "https://doc.bunq.com/request/request-response.md"
+        },
+        {
+            "bytes": 2636,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/sandbox-users-and-sandbox-money.md",
+            "sha256": "374f47ee3ac2237e32498837862bd5c0b0050ad37a083035981f08ecd1d04c03",
+            "status": "ok",
+            "url": "https://doc.bunq.com/sandbox-users-and-sandbox-money.md"
+        },
+        {
+            "bytes": 2190,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/sandbox-users.md",
+            "sha256": "3dcdc71fbf24f8554f5a25a0a1b294012e436347bd320ac157821e9b9dfdc307",
+            "status": "ok",
+            "url": "https://doc.bunq.com/sandbox-users.md"
+        },
+        {
+            "bytes": 2466,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/schedule.md",
+            "sha256": "72ccd1ca4d7074ec80132675d67d06e64b4aa4f9780f56706ee144d2006a529c",
+            "status": "ok",
+            "url": "https://doc.bunq.com/schedule.md"
+        },
+        {
+            "bytes": 2620,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/schedule/schedule-instance.md",
+            "sha256": "35d5fccc1631c7da9e80c72cb33436c51d49041e79b8847d8299707c81d77cc8",
+            "status": "ok",
+            "url": "https://doc.bunq.com/schedule/schedule-instance.md"
+        },
+        {
+            "bytes": 2916,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/schedule/schedule-payment-batch.md",
+            "sha256": "885b59056d8b5d19b5f8328abfe60456c8be51a3ba3bf6d9ce1d5c5bb6466aff",
+            "status": "ok",
+            "url": "https://doc.bunq.com/schedule/schedule-payment-batch.md"
+        },
+        {
+            "bytes": 3156,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/schedule/schedule-payment.md",
+            "sha256": "a6bc4812a040ec3725c23366d310777b581f3b41762e595af6a28d577b458afb",
+            "status": "ok",
+            "url": "https://doc.bunq.com/schedule/schedule-payment.md"
+        },
+        {
+            "bytes": 1912,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/server-error.md",
+            "sha256": "fa425cfd6f6f23f92c6c25b465495c9e8e083364162c690cb5955d12c8231c8b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/server-error.md"
+        },
+        {
+            "bytes": 1961,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/server-public-key.md",
+            "sha256": "e3854625f2c98438126d160f84e6ac6ef78cc0377733e153e1bf57cbfe2b4f01",
+            "status": "ok",
+            "url": "https://doc.bunq.com/server-public-key.md"
+        },
+        {
+            "bytes": 2132,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/session.md",
+            "sha256": "e77ad79f42d7b0c68f8d09052e60457fef72aef50251fa23e615f5aa6f71d135",
+            "status": "ok",
+            "url": "https://doc.bunq.com/session.md"
+        },
+        {
+            "bytes": 3548,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/share-invite-monetary-account-inquiry.md",
+            "sha256": "ceb3643dc6599e53402b5945cad9ecf3cec558fc68d24a538e69dc0e35a30990",
+            "status": "ok",
+            "url": "https://doc.bunq.com/share-invite-monetary-account-inquiry.md"
+        },
+        {
+            "bytes": 2501,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/share-invite-monetary-account-response.md",
+            "sha256": "06dcfd68d6993825ce73c8a44af17e547b1b3360f30e6714aec317f2f962080e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/share-invite-monetary-account-response.md"
+        },
+        {
+            "bytes": 2325,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/sofort-merchant-transaction.md",
+            "sha256": "a4f12ab9142d475be1cb9acc8dc11fe9d4bc0884b61dc7aa011fdfe950f96cef",
+            "status": "ok",
+            "url": "https://doc.bunq.com/sofort-merchant-transaction.md"
+        },
+        {
+            "bytes": 2581,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/statement.md",
+            "sha256": "768450da52801d7174ce3ff4454d45c89c4c393d9ebfc949c133b8f550e5ba9b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/statement.md"
+        },
+        {
+            "bytes": 2779,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/support/api-support-team.md",
+            "sha256": "d1d37770bc98c470857db62134f2c3de801d94726a8412764936dd36f620df21",
+            "status": "ok",
+            "url": "https://doc.bunq.com/support/api-support-team.md"
+        },
+        {
+            "bytes": 5916,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/support/faq.md",
+            "sha256": "a0f0c83522699a54abb68b67bf6f0947a14bd485fb8d9aa8d5b19621c508db61",
+            "status": "ok",
+            "url": "https://doc.bunq.com/support/faq.md"
+        },
+        {
+            "bytes": 2012,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/switch-service-payment.md",
+            "sha256": "181f40e4621d7cb00487796924d0c51f38f637737f1d8e8991ad89cb55649497",
+            "status": "ok",
+            "url": "https://doc.bunq.com/switch-service-payment.md"
+        },
+        {
+            "bytes": 20565,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/token-qr-request-ideal.md",
+            "sha256": "666177b42b2677674d3de441aa27c0bac39506d759b6aa86a02cfbc3af213d82",
+            "status": "ok",
+            "url": "https://doc.bunq.com/token-qr-request-ideal.md"
+        },
+        {
+            "bytes": 1970,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/token-qr-request-sofort.md",
+            "sha256": "80dbd84538c1db6d93c3aaa641fd35233afbed47d9c5d62f06a9cc7651dd746b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/token-qr-request-sofort.md"
+        },
+        {
+            "bytes": 2326,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/transferwise.md",
+            "sha256": "8ae69ab1bbb14b97d4c62f3aa51bddb129d22f2182304914d11d77cfc76641fa",
+            "status": "ok",
+            "url": "https://doc.bunq.com/transferwise.md"
+        },
+        {
+            "bytes": 1987,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/transferwise/transferwise-currency.md",
+            "sha256": "b106a7ebc9d3633112e3a0258d491459cda7b9c4b3f1586bacfbca5c9360e56a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/transferwise/transferwise-currency.md"
+        },
+        {
+            "bytes": 2753,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/transferwise/transferwise-quote.md",
+            "sha256": "e32263d3f36a49b2df5bc971286d3bb6352bab422de011eea24e64722764eb29",
+            "status": "ok",
+            "url": "https://doc.bunq.com/transferwise/transferwise-quote.md"
+        },
+        {
+            "bytes": 2386,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/transferwise/transferwise-recipient-requirement.md",
+            "sha256": "937a3480eb0d8bc0235691527b29a5bdc2002a9496b98bde35f33d4b90f28202",
+            "status": "ok",
+            "url": "https://doc.bunq.com/transferwise/transferwise-recipient-requirement.md"
+        },
+        {
+            "bytes": 2931,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/transferwise/transferwise-recipient.md",
+            "sha256": "552f3e78ccacd1b313f47f65b636916e81678913f6771a518ffed68f4e2e7eb3",
+            "status": "ok",
+            "url": "https://doc.bunq.com/transferwise/transferwise-recipient.md"
+        },
+        {
+            "bytes": 2078,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/transferwise/transferwise-transfer-requirement.md",
+            "sha256": "ff0dc37d03ddb3f9e598c503cf869179eeb2c9cf0879cb1eec4988cc0b167b1d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/transferwise/transferwise-transfer-requirement.md"
+        },
+        {
+            "bytes": 2621,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/transferwise/transferwise-transfer.md",
+            "sha256": "a2fb83d5155e043fec704783551af643dcd20654efea19f23dacbef1b91a2ba2",
+            "status": "ok",
+            "url": "https://doc.bunq.com/transferwise/transferwise-transfer.md"
+        },
+        {
+            "bytes": 2217,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/transferwise/transferwise-user.md",
+            "sha256": "c7f4915d25c89543e077dcda69cd55b96bc0120d540b5883517d0d01c24f93df",
+            "status": "ok",
+            "url": "https://doc.bunq.com/transferwise/transferwise-user.md"
+        },
+        {
+            "bytes": 1929,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tree-progress.md",
+            "sha256": "1adbfe193b3e71ada7a52c4d4715b672356ac36341ad912cf35ee1561c1e747a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tree-progress.md"
+        },
+        {
+            "bytes": 1786,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/troubleshooting-as-a-third-party-provider-tpp.md",
+            "sha256": "6abceef5c0a65451205ef95e4a815346dcd3fd48efe2fb80c79f66d404aa2b6e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/troubleshooting-as-a-third-party-provider-tpp.md"
+        },
+        {
+            "bytes": 4289,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/access-end-user-acount-information-through-oauth.md",
+            "sha256": "64c4481465023f82b9d6567d30b3bc3e4a1cba49d5afcefcc792988813f5aee3",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/access-end-user-acount-information-through-oauth.md"
+        },
+        {
+            "bytes": 4534,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/access-end-user-acount-information-through-oauth/setting-up-the-oauth-client.md",
+            "sha256": "2a7735de642fb81924b96309090bca2bed414f0237c4349782b578feb555d143",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/access-end-user-acount-information-through-oauth/setting-up-the-oauth-client.md"
+        },
+        {
+            "bytes": 1775,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/how-to-do-bulk-payments.md",
+            "sha256": "3089f412903850dc0584aa1c3803a8a6489b751060090cb11cee98ea4213786c",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/how-to-do-bulk-payments.md"
+        },
+        {
+            "bytes": 2090,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/how-to-manage-your-cards.md",
+            "sha256": "c123ee0c80c7aa1b40174807fc18b3b251eaefcb12dbc8c23d96dc21c8f39000",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/how-to-manage-your-cards.md"
+        },
+        {
+            "bytes": 2660,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/how-to-manage-your-cards/introduction.md",
+            "sha256": "cb553d33790fb304380bcd84288982d1406e4609e5e2942d62c7bcc1598315b6",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/how-to-manage-your-cards/introduction.md"
+        },
+        {
+            "bytes": 3228,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/how-to-manage-your-cards/ordering-a-card.md",
+            "sha256": "fab35376e5d412a39608e94947bce51fc576f43daac290bbdec92ae6cfad6ed6",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/how-to-manage-your-cards/ordering-a-card.md"
+        },
+        {
+            "bytes": 14969,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/how-to-manage-your-cards/setting-the-card-limit-and-changing-the-pin-code.md",
+            "sha256": "9050851efa3bfade6624e880bd635a73c536d53cf41a2bf5fc738cc02d428650",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/how-to-manage-your-cards/setting-the-card-limit-and-changing-the-pin-code.md"
+        },
+        {
+            "bytes": 16161,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/receiving-payments-on-your-website-using-bunq.me.md",
+            "sha256": "53addde9e236c10a6977dfc79335ff640a5b229e0ac0c6193f4607665adf4579",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/receiving-payments-on-your-website-using-bunq.me.md"
+        },
+        {
+            "bytes": 2176,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment.md",
+            "sha256": "594c4e9a45d3161c8480d3e59a5c7e30a0f339256051acd6de9c56acd2b11489",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment.md"
+        },
+        {
+            "bytes": 5679,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/creating-a-sandbox-user-and-getting-an-api-key.md",
+            "sha256": "f7af8e898b8a32b82dcc3e6a284bbf152cdee4e3fa39847db130da530bde0132",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/creating-a-sandbox-user-and-getting-an-api-key.md"
+        },
+        {
+            "bytes": 3798,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/creating-the-api-context.md",
+            "sha256": "b9b66f22349fdaa22b896fdb2ee9e75a15b9bdc375c14baa7e593aac40f88b7e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/creating-the-api-context.md"
+        },
+        {
+            "bytes": 9936,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/creating-the-api-context/creating-the-installation.md",
+            "sha256": "abcc1db1887f455163bcca730f91818e6447219a9b7c54ba0fb7473035f621d7",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/creating-the-api-context/creating-the-installation.md"
+        },
+        {
+            "bytes": 3986,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/creating-the-api-context/device-registration.md",
+            "sha256": "8dcc8160ed6d9789f95f6b3118654f5e8c541624b70054b01bcfad7ff135e0dd",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/creating-the-api-context/device-registration.md"
+        },
+        {
+            "bytes": 4164,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/creating-the-api-context/start-a-session.md",
+            "sha256": "dc48ddcb957700e6977186e48f985e2d8fb6b96055cb1d62ce2f435a748e25d5",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/creating-the-api-context/start-a-session.md"
+        },
+        {
+            "bytes": 4659,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/first-payments.md",
+            "sha256": "2bc44a2143261094344f6d590dcac015acd2ab21cc8142a598eacf580bc510fd",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/first-payments.md"
+        },
+        {
+            "bytes": 3225,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/introduction.md",
+            "sha256": "8187c6796b6c9cd9261176fa4f3ec7ed38f373f92a46ce6b931d8d5d4f19f432",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/introduction.md"
+        },
+        {
+            "bytes": 1829,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/setting-up-a-sandbox-user.md",
+            "sha256": "30c8027051609a5c9c20926a8170b36ff7fe04fd4a0823015595fe1047886e6e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/setting-up-a-sandbox-user.md"
+        },
+        {
+            "bytes": 6617,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/setting-up-a-sandbox-user/getting-sandbox-money-on-the-user-account.md",
+            "sha256": "d007575f28700a7dba42f031c9b089fc0ede7598dce044dc856b0ce7b90e5109",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/setting-up-a-sandbox-user/getting-sandbox-money-on-the-user-account.md"
+        },
+        {
+            "bytes": 4173,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/setting-up-a-sandbox-user/retrieving-my-user-details.md",
+            "sha256": "da3cdbf5436651cb13312fae58bd29c86bd583f8b7e53a562ea5d14bd5c130ad",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/setting-up-a-sandbox-user/retrieving-my-user-details.md"
+        },
+        {
+            "bytes": 6069,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/tutorials/your-first-payment/setting-up-a-sandbox-user/sandbox-version-of-the-bunq-app.md",
+            "sha256": "5555b529251f41ecc416725e4f496125a8e333aca0443a9fddd274a0994eef19",
+            "status": "ok",
+            "url": "https://doc.bunq.com/tutorials/your-first-payment/setting-up-a-sandbox-user/sandbox-version-of-the-bunq-app.md"
+        },
+        {
+            "bytes": 3543,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-0-setting-up-the-api-context.md",
+            "sha256": "39bb5122b5fe47c9e7fa1d4e649c5885799840f43f7058aaba16bc787b303952",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-0-setting-up-the-api-context.md"
+        },
+        {
+            "bytes": 4289,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-1-setting-up-oauth-client.md",
+            "sha256": "acc53038922bdb0b0a21308651e6cbf58a30b4660b0dd45d9d7ebd326fee0dd4",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-1-setting-up-oauth-client.md"
+        },
+        {
+            "bytes": 3900,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-2-creating-a-user-provision.md",
+            "sha256": "458091d17ee13d528861e4b7cafaf64d55d52f7f03a76737f3634a4a71050c39",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-2-creating-a-user-provision.md"
+        },
+        {
+            "bytes": 4072,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-2-creating-a-user-provision/closing-a-provision.md",
+            "sha256": "1439de199cc366dd0c412650f0b49357e1e1080435ddca7beac9910fb1900e42",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-2-creating-a-user-provision/closing-a-provision.md"
+        },
+        {
+            "bytes": 4461,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-2-creating-a-user-provision/created-provision.md",
+            "sha256": "60f121781d6d33227d7626d965cf37125c46661573125f9bdd00defe5b7bb092",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-2-creating-a-user-provision/created-provision.md"
+        },
+        {
+            "bytes": 3066,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-2-creating-a-user-provision/monitoring-oauth-processing.md",
+            "sha256": "78f1b2b8e3f1e4cb1a6c8c0662b0228386af2ac8f4239b67f0d2a5e44cd56192",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-2-creating-a-user-provision/monitoring-oauth-processing.md"
+        },
+        {
+            "bytes": 3502,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-2-creating-a-user-provision/monitoring-relation-processing.md",
+            "sha256": "6a150d0593acea3eb664cbec516a4a3ac17abbce76b16fea9785c7030b5e5596",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-2-creating-a-user-provision/monitoring-relation-processing.md"
+        },
+        {
+            "bytes": 3317,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-2-creating-a-user-provision/monitoring-user-processing.md",
+            "sha256": "53536fcb447d1f409e8b3a8f2b058ba98c9a0a986e5e5c7700a123f7ea7ed8c0",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-2-creating-a-user-provision/monitoring-user-processing.md"
+        },
+        {
+            "bytes": 2304,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-3-onboarding.md",
+            "sha256": "e74b58fcabcb60fb4bd3d299652fa526e6694014142e69f7264e75246112d249",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-3-onboarding.md"
+        },
+        {
+            "bytes": 4248,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-3-onboarding/complete-identity-verification-with-sdk.md",
+            "sha256": "b3c4bbbe0109a804ebb730d69bf9c14cf0a4b11c5fb8e331c1e7bb875f8a2ca8",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-3-onboarding/complete-identity-verification-with-sdk.md"
+        },
+        {
+            "bytes": 1954,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-3-onboarding/complete-the-rest-of-the-fulfilments.md",
+            "sha256": "980658182166020b03b589af819bb5c517bb82ab7e574479d4a82eba774ed569",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-3-onboarding/complete-the-rest-of-the-fulfilments.md"
+        },
+        {
+            "bytes": 4049,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-3-onboarding/creating-a-session-on-behalf-of-the-user.md",
+            "sha256": "9e2337485301c024f521405b75ff5fd3a59df0bbf9adf1788a110dbd63ffb70a",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-3-onboarding/creating-a-session-on-behalf-of-the-user.md"
+        },
+        {
+            "bytes": 9025,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-3-onboarding/creating-user-onboarding.md",
+            "sha256": "d67829eced9d4c9b31fd8cf5f47d9ec3228c983dbefcf396da41367b51019cc1",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-3-onboarding/creating-user-onboarding.md"
+        },
+        {
+            "bytes": 13800,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user-provisioning/chapter-4-webhooks-callbacks.md",
+            "sha256": "7a915b0a04d0c55b4f3728e56541f40a32ebe58bfa009c37be7966ad69103b8e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user-provisioning/chapter-4-webhooks-callbacks.md"
+        },
+        {
+            "bytes": 1874,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user.md",
+            "sha256": "e289872f806c7eb90105802dc8a53f5f41e89b726a238b72d72b27cc293f673e",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user.md"
+        },
+        {
+            "bytes": 2413,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user/user-company.md",
+            "sha256": "10f0ae7a0adebd92417d3c2d2b3bcda8e91795ba041edf22428cdb96ead202d7",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user/user-company.md"
+        },
+        {
+            "bytes": 1998,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user/user-payment-service-provider.md",
+            "sha256": "46c10cf239080e5ced97e420f348a4205a9f2c0bb4715841bed257382868152c",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user/user-payment-service-provider.md"
+        },
+        {
+            "bytes": 2160,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/user/user-person.md",
+            "sha256": "de350ae5eaedf0f14c10737ed579ddc13b79c36d54fd319985dd4a772f55f38b",
+            "status": "ok",
+            "url": "https://doc.bunq.com/user/user-person.md"
+        },
+        {
+            "bytes": 2746,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/whitelist-ssd.md",
+            "sha256": "fb975febb37cc1d3849be644a2460d56db4be138b9822513c1eebc432a1e0cac",
+            "status": "ok",
+            "url": "https://doc.bunq.com/whitelist-ssd.md"
+        },
+        {
+            "bytes": 3016,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/whitelist-ssd/whitelist-ssd-one-off.md",
+            "sha256": "da7efa532623c68dfb6719dca96f554893050ec778ccbb36bc03e644a7c44f1d",
+            "status": "ok",
+            "url": "https://doc.bunq.com/whitelist-ssd/whitelist-ssd-one-off.md"
+        },
+        {
+            "bytes": 3032,
+            "kind": "markdown",
+            "path": "References/upstream/gitbook/pages/whitelist-ssd/whitelist-ssd-recurring.md",
+            "sha256": "d96dd42b77b8b533cc03755a3d6bd902b4f2d78b616db8b00435281f63903372",
+            "status": "ok",
+            "url": "https://doc.bunq.com/whitelist-ssd/whitelist-ssd-recurring.md"
+        }
+    ]
+}
