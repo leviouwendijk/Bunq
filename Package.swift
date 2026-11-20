@@ -9,14 +9,11 @@ let package = Package(
     ],
     products: [
         .library(name: "Bunq", targets: ["Bunq"]),
-        .executable(name: "t_bunq", targets: ["BunqTests"]),
-        .executable(name: "t_bunq_live", targets: ["BunqLive"]),
     ],
     dependencies: [
         .package(url: "https://github.com/leviouwendijk/Primitives.git", branch: "master"),
         .package(url: "https://github.com/leviouwendijk/HTTP.git", branch: "master"),
         .package(url: "https://github.com/leviouwendijk/Cryptography.git", branch: "master"),
-        .package(url: "https://github.com/leviouwendijk/Milieu.git", branch: "master"),
         .package(url: "https://github.com/leviouwendijk/Sensitivity.git", branch: "master"),
     ],
     targets: [
@@ -29,16 +26,6 @@ let package = Package(
                 .product(name: "Sensitivity", package: "Sensitivity"),
             ],
             path: "Sources/Bunq"
-        ),
-        .executableTarget(
-            name: "BunqTests",
-            dependencies: ["Bunq"],
-            path: "Testing/BunqTests"
-        ),
-        .executableTarget(
-            name: "BunqLive",
-            dependencies: ["Bunq", .product(name: "Milieu", package: "Milieu")],
-            path: "Testing/BunqLive"
         ),
     ],
     swiftLanguageModes: [.v6]
